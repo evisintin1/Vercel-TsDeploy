@@ -4,7 +4,7 @@
   "description": "Proyecto con estructura recomendada para comenzar nuevos proyectos con ExpressJs",
   "main": "server.js",
   "engines": {
-    "node": "16.13.1"
+    "node": "14.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
